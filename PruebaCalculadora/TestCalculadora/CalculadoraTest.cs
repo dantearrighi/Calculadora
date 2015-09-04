@@ -13,12 +13,24 @@ namespace TestCalculadora
         }
 
         //METODO SUMARTEST
-        void sumarTest()
+        [TestMethod]
+       public void sumarTest()
         {
             Calculadora c = new Calculadora();
             int result = c.sumar(2, 2);
             Assert.AreEqual(4, result);
 
         }
+        //METODO DIVIDIR TEST
+        [TestMethod]
+      public  void dividirTest()
+        {
+            Calculadora c = new Calculadora();
+            double result = c.dividir(2, 2);
+            Assert.AreEqual(1, result);
+           // Assert.Fail("No deberia pasar por aca. Error en la division");
+        }
+
+       
     }
 }

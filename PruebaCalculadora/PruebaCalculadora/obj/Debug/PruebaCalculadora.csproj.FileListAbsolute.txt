@@ -1,1 +1,8 @@
 C:\Users\Dante\Desktop\DIAMAND\Calculadora\PruebaCalculadora\PruebaCalculadora\bin\Debug\PruebaCalculadora.exe.config
+C:\Users\Dante\Desktop\DIAMAND\Calculadora\PruebaCalculadora\PruebaCalculadora\bin\Debug\PruebaCalculadora.exe
+C:\Users\Dante\Desktop\DIAMAND\Calculadora\PruebaCalculadora\PruebaCalculadora\bin\Debug\PruebaCalculadora.pdb
+C:\Users\Dante\Desktop\DIAMAND\Calculadora\PruebaCalculadora\PruebaCalculadora\obj\Debug\PruebaCalculadora.csprojResolveAssemblyReference.cache
+C:\Users\Dante\Desktop\DIAMAND\Calculadora\PruebaCalculadora\PruebaCalculadora\obj\Debug\PruebaCalculadora.Properties.Resources.resources
+C:\Users\Dante\Desktop\DIAMAND\Calculadora\PruebaCalculadora\PruebaCalculadora\obj\Debug\PruebaCalculadora.csproj.GenerateResource.Cache
+C:\Users\Dante\Desktop\DIAMAND\Calculadora\PruebaCalculadora\PruebaCalculadora\obj\Debug\PruebaCalculadora.exe
+C:\Users\Dante\Desktop\DIAMAND\Calculadora\PruebaCalculadora\PruebaCalculadora\obj\Debug\PruebaCalculadora.pdb

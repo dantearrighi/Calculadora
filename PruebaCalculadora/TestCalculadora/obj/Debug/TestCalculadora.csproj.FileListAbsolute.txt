@@ -1,0 +1,7 @@
+C:\Users\Dante\Desktop\DIAMAND\Calculadora\PruebaCalculadora\TestCalculadora\bin\Debug\TestCalculadora.dll
+C:\Users\Dante\Desktop\DIAMAND\Calculadora\PruebaCalculadora\TestCalculadora\bin\Debug\TestCalculadora.pdb
+C:\Users\Dante\Desktop\DIAMAND\Calculadora\PruebaCalculadora\TestCalculadora\bin\Debug\PruebaCalculadora.exe
+C:\Users\Dante\Desktop\DIAMAND\Calculadora\PruebaCalculadora\TestCalculadora\bin\Debug\PruebaCalculadora.pdb
+C:\Users\Dante\Desktop\DIAMAND\Calculadora\PruebaCalculadora\TestCalculadora\obj\Debug\TestCalculadora.csprojResolveAssemblyReference.cache
+C:\Users\Dante\Desktop\DIAMAND\Calculadora\PruebaCalculadora\TestCalculadora\obj\Debug\TestCalculadora.dll
+C:\Users\Dante\Desktop\DIAMAND\Calculadora\PruebaCalculadora\TestCalculadora\obj\Debug\TestCalculadora.pdb
