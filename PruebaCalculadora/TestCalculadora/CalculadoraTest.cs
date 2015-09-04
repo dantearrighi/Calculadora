@@ -28,7 +28,22 @@ namespace TestCalculadora
             Calculadora c = new Calculadora();
             double result = c.dividir(2, 2);
             Assert.AreEqual(1, result);
-           // Assert.Fail("No deberia pasar por aca. Error en la division");
+ 
+        }
+        //METODO DIVIDIR POR CERO TEST
+         [TestMethod]
+        public void dividirPorCeroTest()
+        {
+            Calculadora c = new Calculadora();
+            try
+            {
+                double result = c.dividir(2, 0);
+                Assert.Fail("No deberia pasar por aca. Error en la division");
+            }
+            catch (Exception e)
+            {
+               
+            }
         }
 
        
