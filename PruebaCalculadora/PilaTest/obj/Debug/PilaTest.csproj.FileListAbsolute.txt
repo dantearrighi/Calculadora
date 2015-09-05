@@ -1,0 +1,7 @@
+C:\Users\Dante\Desktop\DIAMAND\Calculadora\PruebaCalculadora\PilaTest\bin\Debug\PilaTest.dll
+C:\Users\Dante\Desktop\DIAMAND\Calculadora\PruebaCalculadora\PilaTest\bin\Debug\PilaTest.pdb
+C:\Users\Dante\Desktop\DIAMAND\Calculadora\PruebaCalculadora\PilaTest\bin\Debug\PruebaCalculadora.exe
+C:\Users\Dante\Desktop\DIAMAND\Calculadora\PruebaCalculadora\PilaTest\bin\Debug\PruebaCalculadora.pdb
+C:\Users\Dante\Desktop\DIAMAND\Calculadora\PruebaCalculadora\PilaTest\obj\Debug\PilaTest.csprojResolveAssemblyReference.cache
+C:\Users\Dante\Desktop\DIAMAND\Calculadora\PruebaCalculadora\PilaTest\obj\Debug\PilaTest.dll
+C:\Users\Dante\Desktop\DIAMAND\Calculadora\PruebaCalculadora\PilaTest\obj\Debug\PilaTest.pdb
